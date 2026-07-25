@@ -1,6 +1,22 @@
 # Replication package
 
-*Governance Sorting in Plastic-Waste Trade after China's Import Restrictions*
+**Governance Sorting in Plastic-Waste Trade after China's Import Restrictions**
+
+Emrah Er (Ankara University) · Işıl Şirin Selçuk (Bolu Abant İzzet Baysal
+University)
+
+<!-- ZENODO BADGE — add after the first Zenodo release.
+     On the Zenodo record page, open "Cite all versions!" to get the *concept*
+     DOI (the one with no version suffix); it always resolves to the newest
+     version. Replace RECORDID in both places below and uncomment this line.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.RECORDID.svg)](https://doi.org/10.5281/zenodo.RECORDID)
+-->
+[![Licence: MIT + CC BY 4.0](https://img.shields.io/badge/licence-MIT%20%2B%20CC%20BY%204.0-blue)](LICENSE.md)
+
+Manuscript submitted to *Ecological Economics* (2026).
+<!-- On acceptance, replace the line above with:
+     Published in *Ecological Economics* (2026), https://doi.org/10.1016/j.ecolecon.YYYY.NNNNNN -->
 
 Code, the analysis panel, and the Stata cross-check for every result and figure
 reported in the manuscript and appendices. The pipeline is written in modern
@@ -212,3 +228,18 @@ first-submission numbers. Everything else is deterministic.
   and are not reported in the paper.
 - Step 02 writes `output/model_objects.rds` (about 500 MB) holding the fitted
   models for downstream steps. It is regenerated on each run and is not shipped.
+
+## Citation
+
+If you use this package, please cite both the paper and the archive.
+
+<!-- Fill in the Zenodo DOI after the first release, and the article DOI on
+     acceptance. Keep this block in sync with the paper's reference list. -->
+
+> Er, Emrah and Işıl Şirin Selçuk (2026). "Governance Sorting in Plastic-Waste
+> Trade after China's Import Restrictions." Manuscript submitted to *Ecological
+> Economics*.
+
+> Er, Emrah and Işıl Şirin Selçuk (2026). *Replication Data for: Governance
+> Sorting in Plastic-Waste Trade after China's Import Restrictions* [dataset].
+> Zenodo. https://doi.org/10.5281/zenodo.RECORDID
