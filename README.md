@@ -5,13 +5,7 @@
 Emrah Er (Ankara University) · Işıl Şirin Selçuk (Bolu Abant İzzet Baysal
 University)
 
-<!-- ZENODO BADGE — add after the first Zenodo release.
-     On the Zenodo record page, open "Cite all versions!" to get the *concept*
-     DOI (the one with no version suffix); it always resolves to the newest
-     version. Replace RECORDID in both places below and uncomment this line.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.RECORDID.svg)](https://doi.org/10.5281/zenodo.RECORDID)
--->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21572495.svg)](https://doi.org/10.5281/zenodo.21572495)
 [![Licence: MIT + CC BY 4.0](https://img.shields.io/badge/licence-MIT%20%2B%20CC%20BY%204.0-blue)](LICENSE.md)
 
 Manuscript submitted to *Ecological Economics* (2026).
@@ -233,8 +227,8 @@ first-submission numbers. Everything else is deterministic.
 
 If you use this package, please cite both the paper and the archive.
 
-<!-- Fill in the Zenodo DOI after the first release, and the article DOI on
-     acceptance. Keep this block in sync with the paper's reference list. -->
+<!-- Article DOI to be added on acceptance. Keep this block in sync with the
+     paper's reference list. -->
 
 > Er, Emrah and Işıl Şirin Selçuk (2026). "Governance Sorting in Plastic-Waste
 > Trade after China's Import Restrictions." Manuscript submitted to *Ecological
@@ -242,4 +236,4 @@ If you use this package, please cite both the paper and the archive.
 
 > Er, Emrah and Işıl Şirin Selçuk (2026). *Replication Data for: Governance
 > Sorting in Plastic-Waste Trade after China's Import Restrictions* [dataset].
-> Zenodo. https://doi.org/10.5281/zenodo.RECORDID
+> Zenodo. https://doi.org/10.5281/zenodo.21572496
