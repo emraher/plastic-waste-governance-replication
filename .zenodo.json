@@ -1,0 +1,35 @@
+{
+  "title": "Replication Data for: Governance Sorting in Plastic-Waste Trade after China's Import Restrictions",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Er, Emrah",
+      "affiliation": "Department of Economics, Faculty of Political Sciences, Ankara University",
+      "orcid": "0000-0001-9909-7479"
+    },
+    {
+      "name": "Şirin Selçuk, Işıl",
+      "affiliation": "Department of Economics, Faculty of Economics and Administrative Sciences, Bolu Abant İzzet Baysal University",
+      "orcid": "0000-0001-9559-1349"
+    }
+  ],
+  "description": "<p>Replication package for the article \"Governance Sorting in Plastic-Waste Trade after China's Import Restrictions.\" The archive contains the R analysis pipeline, the constructed bilateral analysis panel for 2014-2020, the treated and comparison product-class key, the input tables compiled by the authors, and independent Stata cross-check scripts.</p><p>The study estimates Poisson pseudo-maximum likelihood triple-difference models that compare plastic waste, Harmonized System heading 3915, with other plastic and waste products across importer groups fixed before China's 2017 import restrictions. Destinations are classified by three pre-shock measures of corruption control: the Varieties of Democracy political corruption index, the World Bank Worldwide Governance Indicators, and the Transparency International Corruption Perceptions Index.</p><p>The included analysis panel makes the central results reproducible without downloading any raw data. Running code/00_run_all.R reproduces the main PPML estimates, the event study, both manuscript figures, and an audit of the paper's headline numbers. Two appendix steps rebuild product baskets and mirror statistics from raw trade data at the HS6 level; they are skipped automatically when that data is absent.</p><p>Third-party inputs from CEPII BACI, UN Comtrade, V-Dem, the World Bank, Transparency International, and the Yale Environmental Performance Index are not redistributed. The file data/README.md documents every one with its source and expected path, and the helpers in code/download/ fetch the scriptable ones.</p>",
+  "keywords": [
+    "Plastic waste trade",
+    "Corruption",
+    "Governance institutions",
+    "China National Sword",
+    "Poisson pseudo-maximum likelihood",
+    "replication package"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/emraher/plastic-waste-governance-replication",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
