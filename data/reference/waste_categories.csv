@@ -1,0 +1,100 @@
+code,class,description
+180200,plant,"Cocoa: shells, husks, skins and other cocoa waste"
+230210,plant,"Bran, sharps and other residues: of maize (corn), whether or not in the form of pellets, derived from the sifting, milling or other workings thereof"
+230230,plant,"Bran, sharps and other residues: of wheat, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof"
+230240,plant,"Bran, sharps and other residues: of other cereals, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof"
+230250,plant,"Bran, sharps and other residues: of leguminous plants, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof"
+230310,plant,Residues of starch manufacture and similar residues: whether or not in the form of pellets
+230320,plant,"Beet-pulp, bagasse and other waste of sugar manufacture: whether or not in the form of pellets"
+230330,plant,Brewing or distilling dregs and waste: whether or not in the form of pellets
+230800,plant,"Vegetable materials and vegetable waste, vegetable residues and by-products: whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included"
+261900,metal,"Slag, dross: (other than granulated slag), scalings and other waste from the manufacture of iron or steel"
+262011,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly zinc, hard zinc spelter"
+262019,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly zinc, other than hard zinc spelter"
+262021,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly lead: leaded gasoline sludges and leaded anti-knock compound sludges"
+262029,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly lead: excluding leaded gasoline sludges and leaded anti-knock compound sludges"
+262030,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly copper"
+262040,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly aluminium"
+262060,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds"
+262091,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing antimony, beryllium, cadmium, chromium or their mixtures"
+262099,metal,"Slag, ash and residues: (not from the manufacture of iron or steel), containing mainly metals or their compounds, n.e.c. in heading no. 2620"
+262190,metal,Slag and ash n.e.c. in chapter 26: including seaweed ash (kelp) but excluding ash and residues from the incineration of municipal waste
+391510,plastic,"Ethylene polymers: waste, parings and scrap"
+391520,plastic,"Styrene polymers: waste, parings and scrap"
+391530,plastic,"Vinyl chloride polymers: waste, parings and scrap"
+391590,plastic,"Plastics n.e.c. in heading no. 3915: waste, parings and scrap"
+400400,rubber_leather,"Rubber: waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom"
+401700,rubber_leather,"Rubber: ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber"
+411520,rubber_leather,"Leather: parings and other waste, of leather or composition leather: not suitable for the manufacture of leather articles: leather dust, powder and flour"
+440131,wood,"Wood: for fuel, sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms: wood pellets"
+440139,wood,"Wood: for fuel, sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms: other than wood pellets"
+450190,wood,"Cork: waste cork, crushed, granulated or ground cork"
+470620,paper,Pulp: of fibres derived from recovered (waste and scrap) paper or paperboard
+470691,paper,"Pulp: of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, mechanical"
+470692,paper,"Pulp: of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, chemical"
+470693,paper,"Pulp: of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, obtained by a combination of mechanical and chemical processes"
+470710,paper,"Paper or paperboard: waste and scrap, of unbleached kraft paper or paperboard or corrugated paper or paperboard"
+470720,paper,"Paper or paperboard: waste and scrap, paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass"
+470730,paper,"Paper or paperboard: waste and scrap, paper or paperboard made mainly of mechanical pulp (e.g. newspapers, journals and similar printed matter)"
+470790,paper,"Paper or paperboard: waste and scrap, of paper or paperboard n.e.c. in heading no. 4707 and of unsorted waste and scrap"
+500300,yarn,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)"
+500400,yarn,"Silk: yarn (other than yarn spun from silk waste), not put up for retail sale"
+500500,yarn,"Silk: yarn spun from silk waste, not put up for retail sale"
+500600,yarn,"Silk yarn and yarn spun from silk waste: put up for retail sale, and silk-worm gut"
+500720,yarn,"Silk: woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk"
+510310,yarn,"Wool and hair: noils of wool or of fine animal hair, including yarn waste, but excluding garnetted stock"
+510320,yarn,"Wool and hair: waste of wool or of fine animal hair, including yarn waste, but excluding garnetted stock and noils of wool or of fine animal hair"
+510330,yarn,"Wool and hair: waste of coarse animal hair, including yarn waste, but excluding garnetted stock"
+520210,yarn,Cotton: yarn waste (including thread waste)
+520291,yarn,Cotton: garnetted stock waste
+520299,yarn,Cotton: waste other than garnetted stock and yarn (including thread) waste
+530130,yarn,"Flax: tow and waste, including yarn waste and garnetted stock"
+530290,yarn,"Hemp (cannabis sativa L.): processed (other than retted) (but not spun), true hemp tow and waste (including yarn waste and garnetted stock)"
+530390,yarn,"Jute and other textile bast fibres: processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)"
+530500,yarn,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun: tow, noils and waste of these fibres (including yarn waste and garnetted stock)"
+550510,yarn,"Fibres: waste (including noils, yarn waste and garnetted stock), of synthetic fibres"
+550520,yarn,"Fibres: waste (including noils, yarn waste and garnetted stock), of artificial fibres"
+620610,yarn,"Blouses, shirts and shirt-blouses: women's or girls', of silk or silk waste (not knitted or crocheted)"
+621410,yarn,"Shawls, scarves, mufflers, mantillas, veils and the like: of silk or silk waste (not knitted or crocheted)"
+621510,yarn,"Ties, bow ties and cravats: of silk or silk waste (not knitted or crocheted)"
+631010,yarn,"Rags: used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials: sorted"
+631090,yarn,"Rags: used or new, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials: other than sorted"
+680800,wood,"Panels, boards, tiles, blocks and the like: of vegetable fibre, of straw, shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders"
+700100,glass,"Glass: cullet and other waste and scrap of glass, glass in the mass"
+711291,gold,"Waste and scrap of precious metals: of gold, including metal clad with gold but excluding sweepings containing other precious metals"
+711292,platinum,"Waste and scrap of precious metals: of platinum, including metal clad with platinum but excluding sweepings containing other precious metals"
+720410,metal,Ferrous waste and scrap: of cast iron
+720421,metal,Ferrous waste and scrap: of stainless steel
+720429,metal,Ferrous waste and scrap: of alloy steel (excluding stainless)
+720430,metal,Ferrous waste and scrap: of tinned iron or steel
+720441,metal,"Ferrous waste and scrap: turnings, shavings, chips, milling waste, sawdust, fillings, trimmings and stampings, whether or not in bundles"
+720449,metal,Ferrous waste and scrap: n.e.c. in heading no. 7204
+720450,metal,Ferrous products: remelting scrap ingots
+740400,metal,Copper: waste and scrap
+750300,metal,Nickel: waste and scrap
+760200,metal,Aluminium: waste and scrap
+780200,metal,Lead: waste and scrap
+790200,metal,Zinc: waste and scrap
+800200,metal,Tin: waste and scrap
+810110,metal,"Tungsten (wolfram): articles thereof, including waste and scrap, powders"
+810197,metal,Tungsten (wolfram): waste and scrap
+810210,metal,"Molybdenum: articles thereof, including waste and scrap, powders"
+810297,metal,Molybdenum: waste and scrap
+810330,metal,Tantalum: waste and scrap
+810420,metal,Magnesium: waste and scrap
+810530,metal,Cobalt: waste and scrap
+810600,metal,"Bismuth: articles thereof, including waste and scrap"
+810730,metal,Cadmium: waste and scrap
+810830,metal,Titanium: waste and scrap
+810930,metal,Zirconium: waste and scrap
+811020,metal,Antimony: waste and scrap
+811090,metal,"Antimony and articles thereof: wrought, other than waste and scrap"
+811100,metal,"Manganese: articles thereof, including waste and scrap"
+811213,metal,Beryllium: waste and scrap
+811219,metal,Beryllium and articles thereof: wrought other than waste and scrap
+811222,metal,Chromium: waste and scrap
+811229,metal,Chromium and articles thereof: wrought other than waste and scrap
+811252,metal,Thallium: waste and scrap
+811259,metal,"Thallium and articles thereof: other than unwrought thallium, powders or waste and scrap"
+811292,metal,"Gallium, germanium, hafnium, indium, niobium (columbium), rhenium and vanadium: articles thereof, unwrought, including waste and scrap, powders"
+811299,metal,"Gallium, germanium, hafnium, indium, niobium (columbium), rhenium and vanadium: articles thereof, other than unwrought including waste and scrap and powders"
